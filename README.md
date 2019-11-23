@@ -1,3 +1,3 @@
 # mg-theme
  theme for brackets
-![https://github.com/mgroff1/mg-theme/blob/master/mg-theme.PNG?raw=true]()
+![theme for Brackets ](https://github.com/mgroff1/mg-theme/blob/master/mg-theme.PNG?raw=true)
